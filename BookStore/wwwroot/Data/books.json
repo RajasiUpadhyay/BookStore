@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "1",
+    "author": "Albert",
+    "coverimage": "img1",
+    "title": "The Hero",
+    "description": "This book is about is about a hero",
+    "price": 50.0
+
+  },
+  {
+    "Id": "2",
+    "author": "Pinto",
+    "coverimage": "img2",
+    "title": "The Quantified Cactus",
+    "description": "This project is about a Cactus",
+    "price": 50.0
+  }
+]
+
+
+

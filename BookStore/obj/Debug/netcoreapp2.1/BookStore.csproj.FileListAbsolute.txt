@@ -1,0 +1,28 @@
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\AnjaliAngel\source\repos\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csprojAssemblyReference.cache
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+C:\Users\Rajsi\OneDrive - University of Windsor\Documents\BookStore\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
